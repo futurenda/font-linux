@@ -1,0 +1,19 @@
+{
+  "name": "font-linux",
+  "version": "0.9.0",
+  "description": "![Available logos](assets/preview.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurenda/font-linux.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/futurenda/font-linux/issues"
+  },
+  "homepage": "https://github.com/futurenda/font-linux#readme"
+}
